@@ -1,0 +1,6 @@
+[submodule "melbourne-alg"]
+	path = alg
+	url = https://github.com/gottacatchenall/melbourne-alg
+[submodule "melbourne-web"]
+	path = web
+	url = https://github.com/gottacatchenall/melbourne-web
